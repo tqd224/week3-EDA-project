@@ -2,7 +2,6 @@
 
 Exploratory data analysis (EDA) of one year of house sales in King County, Washington (Seattle and surroundings), with insights and recommendations for a buyer looking for a mid-priced home in a lively, central neighborhood.
 
-*Thanh Quynh Duong · neuefische Bootcamp, Data Science and AI · November 2026*
 
 | | |
 |---|---|
